@@ -1,0 +1,9 @@
+subchart:
+  enabled: true
+  replicaCount: 1
+  
+mongodb:
+  enabled: true
+
+wordpress:
+  enabled: true
