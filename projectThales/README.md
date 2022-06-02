@@ -26,6 +26,5 @@ We hebben een Hoofdchart met twee subcharts. Een lokale subchart genaamd: subcha
 7. Controleer of de subcharts correct geinstalleerd zijn. Als het goed is draaien er nu vier pods. 1x mongodb en 3x subchart.
 
     ```kubectl get pods```
-8. Wanneer de pods ready staan voer: Minikube tunnel uit.
-9. Wanneer geen permissie: sudo groupadd docker, sudo usermod -aG docker $USER, newgrp docker. (https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue)    
+    
    

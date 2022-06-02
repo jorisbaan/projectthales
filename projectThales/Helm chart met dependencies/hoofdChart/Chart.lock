@@ -1,0 +1,21 @@
+dependencies:
+- name: subchart
+  repository: file://../subchart
+  version: 0.1.0
+- name: mongodb
+  repository: https://charts.bitnami.com/bitnami
+  version: 10.31.5
+- name: wordpress
+  repository: https://charts.bitnami.com/bitnami
+  version: 14.3.2
+- name: grafana
+  repository: https://charts.bitnami.com/bitnami
+  version: 7.9.3
+- name: elasticsearch
+  repository: https://charts.bitnami.com/bitnami
+  version: 18.2.6
+- name: joomla
+  repository: https://charts.bitnami.com/bitnami
+  version: 13.2.7
+digest: sha256:758e5dcefac1d061c15065e02f6cc13fcca8e9bff6758dbe0078701b687b0dba
+generated: "2022-06-02T05:10:19.336572044-07:00"
