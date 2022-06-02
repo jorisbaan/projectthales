@@ -4,6 +4,10 @@ subchart:
   
 mongodb:
   enabled: true
+  service:
+    type: LoadBalancer
+    port: 27017
 
 wordpress:
-  enabled: true
+  enabled: false
+

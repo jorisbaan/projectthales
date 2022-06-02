@@ -30,11 +30,11 @@ dependencies:
 
 
   - name: mongodb
-    version: 10.10.1
+    version: 10.x.x
     condition: mongodb.enabled
     repository: https://charts.bitnami.com/bitnami
 
   - name: wordpress
-    version: 11.x.x
+    version: 14.x.x
     condition: wordpress.enabled
     repository: https://charts.bitnami.com/bitnami

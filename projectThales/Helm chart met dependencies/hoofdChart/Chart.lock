@@ -4,9 +4,9 @@ dependencies:
   version: 0.1.0
 - name: mongodb
   repository: https://charts.bitnami.com/bitnami
-  version: 10.10.1
+  version: 10.31.5
 - name: wordpress
   repository: https://charts.bitnami.com/bitnami
-  version: 11.1.5
-digest: sha256:9979cc52f563fc8a7c895d58b46de2ec7b3edbe2da792542907e2659a810d408
-generated: "2022-06-02T01:43:23.611652154-07:00"
+  version: 14.3.2
+digest: sha256:7f255d22bbea1b266c9e6ac73b8163f4c77998af503ca15a8b5bb6906796cceb
+generated: "2022-06-02T03:03:51.486352638-07:00"
